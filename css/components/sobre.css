@@ -177,15 +177,16 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    gap: 20px;
 }
 
 .curiosidades li {
-    font-size: 0.7rem;
+    font-size: 0.85rem;
     color: #c2c2c2;
     line-height: 1.6;
     font-family: 'Georgia', serif;
     font-style: italic;
-    width: calc(50% - 10px);
+    width: calc(33.333% - 14px);
 }
 
 .curiosidades li i.bi {
@@ -298,7 +299,7 @@
     }
 
     .curiosidades li {
-        font-size: 0.65rem;
+        font-size: 0.8rem;
     }
 
     .btn-curriculo {
