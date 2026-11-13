@@ -36,9 +36,11 @@
       "projeto-legenda2": "Design moderno com foco em coerência entre cores e layout para que o usuário se sinta bem e proativo.<br>Desenvolvido com",
       "projeto-nome3": "Job Application Tracker",
       "projeto-legenda3": "Painel full stack para organizar candidaturas, com login (senha ou Google), dashboard, agenda de entrevistas e tradução em português e inglês.<br>Desenvolvido com",
+      "projeto-nome4": "Radar CS",
+      "projeto-legenda4": "Painel para times de Customer Success acompanharem a meta do mês, com importação de planilhas, contatos por empresa, WhatsApp com mensagem pronta e PDF para impressão.<br>Desenvolvido com",
       "projeto-futuro-titulo": "Em construção...",
       "projeto-futuro-texto": "Mais uma obra-prima está por vir.",
-      "footer-assinatura": "Desenvolvido por Fernando Ignacio © 2026"
+      "footer-assinatura": "Desenvolvido por Lucas Fernando © 2026"
       },
 
     "en": {
@@ -78,9 +80,11 @@
       "projeto-legenda2": "Modern design focused on harmony between colors and layout, so users feel comfortable and engaged.<br>Built with",
       "projeto-nome3": "Job Application Tracker",
       "projeto-legenda3": "Full stack dashboard to organize job applications, with login (password or Google), summary stats, interview scheduling and English and Portuguese versions.<br>Built with",
+      "projeto-nome4": "Radar CS",
+      "projeto-legenda4": "Dashboard for Customer Success teams to track the monthly goal, with spreadsheet import, contacts per company, ready-made WhatsApp messages and a print-ready PDF.<br>Built with",
       "projeto-futuro-titulo": "Under construction...",
       "projeto-futuro-texto": "Another masterpiece is on the way.",
-      "footer-assinatura": "Developed by Fernando Ignacio © 2026"
+      "footer-assinatura": "Developed by Lucas Fernando © 2026"
       
     },
 
@@ -121,9 +125,11 @@
       "projeto-legenda2": "Diseño moderno enfocado en la armonía entre colores y diseño, para que el usuario se sienta cómodo y motivado.<br>Hecho con",
       "projeto-nome3": "Job Application Tracker",
       "projeto-legenda3": "Panel full stack para organizar postulaciones, con inicio de sesión (contraseña o Google), resumen, agenda de entrevistas y versiones en portugués e inglés.<br>Hecho con",
+      "projeto-nome4": "Radar CS",
+      "projeto-legenda4": "Panel para equipos de Customer Success que siguen la meta del mes, con importación de hojas de cálculo, contactos por empresa, WhatsApp con mensaje listo y PDF para imprimir.<br>Hecho con",
       "projeto-futuro-titulo": "En construcción...",
       "projeto-futuro-texto": "Otra obra maestra está por llegar.",
-      "footer-assinatura": "Desarrollado por Fernando Ignacio © 2026"
+      "footer-assinatura": "Desarrollado por Lucas Fernando © 2026"
     }
   }
   
