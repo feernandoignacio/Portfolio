@@ -40,7 +40,9 @@
       "projeto-legenda4": "Painel para times de Customer Success acompanharem a meta do mês, com importação de planilhas, contatos por empresa, WhatsApp com mensagem pronta e PDF para impressão.<br>Desenvolvido com",
       "projeto-futuro-titulo": "Em construção...",
       "projeto-futuro-texto": "Mais uma obra-prima está por vir.",
-      "footer-assinatura": "Desenvolvido por Lucas Fernando © 2026"
+      "footer-assinatura": "Desenvolvido por Lucas Fernando © 2026",
+      "projeto-nome5": "Operação Yovel",
+      "projeto-legenda5": "App de finanças pessoais para Windows e navegador: meta do dia calculada conta por conta, contas vencidas com plano de quitação, metas com foto, investimentos com cotação da B3 e avisos do Windows. Atualiza sozinho pelo GitHub Releases.<br>Desenvolvido com"
       },
 
     "en": {
@@ -84,7 +86,9 @@
       "projeto-legenda4": "Dashboard for Customer Success teams to track the monthly goal, with spreadsheet import, contacts per company, ready-made WhatsApp messages and a print-ready PDF.<br>Built with",
       "projeto-futuro-titulo": "Under construction...",
       "projeto-futuro-texto": "Another masterpiece is on the way.",
-      "footer-assinatura": "Developed by Lucas Fernando © 2026"
+      "footer-assinatura": "Developed by Lucas Fernando © 2026",
+      "projeto-nome5": "Operação Yovel",
+      "projeto-legenda5": "Personal finance app for Windows and the browser: a daily target calculated bill by bill, overdue bills with a payoff plan, goals with photos, investments with B3 quotes and Windows notifications. Updates itself through GitHub Releases.<br>Built with"
       
     },
 
@@ -129,7 +133,9 @@
       "projeto-legenda4": "Panel para equipos de Customer Success que siguen la meta del mes, con importación de hojas de cálculo, contactos por empresa, WhatsApp con mensaje listo y PDF para imprimir.<br>Hecho con",
       "projeto-futuro-titulo": "En construcción...",
       "projeto-futuro-texto": "Otra obra maestra está por llegar.",
-      "footer-assinatura": "Desarrollado por Lucas Fernando © 2026"
+      "footer-assinatura": "Desarrollado por Lucas Fernando © 2026",
+      "projeto-nome5": "Operação Yovel",
+      "projeto-legenda5": "App de finanzas personales para Windows y el navegador: meta del día calculada cuenta por cuenta, cuentas vencidas con plan de pago, metas con foto, inversiones con cotización de B3 y avisos de Windows. Se actualiza solo por GitHub Releases.<br>Hecho con"
     }
   }
   
